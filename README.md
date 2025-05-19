@@ -25,4 +25,3 @@ API REST desarrollada con Node.js y Express para la plataforma de administració
 
 ## 🌐 Despliegue en Vercel
 
-[Enlace a la API en Vercel](https://TU_API.vercel.app)
